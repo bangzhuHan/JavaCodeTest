@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"Example3_10","h":"","u":""}]
